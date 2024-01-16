@@ -1,9 +1,10 @@
 import React from 'react';
 import studentDetailsData from "./students.json";
 
+
 const Table = () => {
   const studentDetails = studentDetailsData.studentDetails || [];
-  const avatarPath = "/src/assets/avatar.png"; // path to the avatar image
+  
 
   return (
     <div className="bg-[#172227] py-8">
@@ -31,7 +32,7 @@ const Table = () => {
                     <td className="p-5 text-sm md:text-xl">{student.id}</td>
                     <td className="p-5 text-sm md:text-xl">
                       <div className="flex items-center space-x-3">
-                        <img src={avatarPath} alt="Avatar" className="w-8 h-8 rounded-full" />
+                        <img src={student.image} alt="Avatar" className="w-8 h-8 rounded-full" />
                         <span>{student.name}</span>
                       </div>
                     </td>

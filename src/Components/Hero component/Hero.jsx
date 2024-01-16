@@ -13,7 +13,7 @@ const Hero = () => {
           </div>
           <img
             className="md:order-2 object-cover ml-auto animate-updown"
-            src="/src/assets/react.svg"  // Make sure the path to your image is correct
+            src="\images\react.svg"  // Make sure the path to your image is correct
             alt="Banner"
             style={{ width: '500px', height: '500px' }}
           />

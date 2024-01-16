@@ -6,70 +6,70 @@
         {
           "id": "1",
           "name": "John Smith",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/41.jpg",
           "grade": "A+",
           "percentage": "98"
         },
         {
           "id": "2",
           "name": "Jane Doe",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/42.jpg",
           "grade": "A",
           "percentage": "95"
         },
         {
           "id": "3",
           "name": "Bob Johnson",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/43.jpg",
           "grade": "B+",
           "percentage": "88"
         },
         {
           "id": "4",
           "name": "Willo smith",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/77.jpg",
           "grade": "A+",
           "percentage": "98"
         },
         {
           "id": "5",
           "name": "Sana Mirza",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/79.jpg",
           "grade": "A",
           "percentage": "95"
         },
         {
           "id": "6",
           "name": "wadud shuvro",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/78.jpg",
           "grade": "B+",
           "percentage": "88"
         },
         {
           "id": "7",
           "name": "Abraham Lincoln",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/80.jpg",
           "grade": "A",
           "percentage": "95"
         },
         {
           "id": "8",
           "name": "Janen Doe",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/81.jpg",
           "grade": "B+",
           "percentage": "88"
         },
         {
           "id": "9",
           "name": "Jids Smith",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/60.jpg",
           "grade": "A+",
           "percentage": "98"
         },
         {
           "id": "10",
           "name": "Ohjt Doe",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/61.jpg",
           "grade": "A",
           "percentage": "95"
         }
@@ -81,70 +81,70 @@
         {
           "id": "1",
           "name": "Alice Williams",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/62.jpg",
           "grade": "A-",
           "percentage": "92"
         },
         {
           "id": "2",
           "name": "Chris Brown",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/31.jpg",
           "grade": "A+",
           "percentage": "97"
         },
         {
           "id": "3",
           "name": "Eva Davis",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/64.jpg",
           "grade": "B",
           "percentage": "85"
         },
         {
           "id": "4",
           "name": "Olivia Johnson",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/65.jpg",
           "grade": "A+",
           "percentage": "98"
         },
         {
           "id": "5",
           "name": "Sophia Davis",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/66.jpg",
           "grade": "A",
           "percentage": "95"
         },
         {
           "id": "6",
           "name": "Liam White",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/67.jpg",
           "grade": "B+",
           "percentage": "88"
         },
         {
           "id": "7",
           "name": "Ava Martin",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/68.jpg",
           "grade": "A",
           "percentage": "95"
         },
         {
           "id": "8",
           "name": "Janen Doe",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/69.jpg",
           "grade": "B+",
           "percentage": "88"
         },
         {
           "id": "9",
           "name": "Jackson Anderson",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/55.jpg",
           "grade": "A+",
           "percentage": "98"
         },
         {
           "id": "10",
           "name": "Emma Carter",
-          "image": "./assets/avatar.png",
+          "image": "https://randomuser.me/api/portraits/thumb/men/56.jpg",
           "grade": "A",
           "percentage": "95"
         }
